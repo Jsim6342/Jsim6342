@@ -2,7 +2,7 @@
 
 Hi, I'm Soobeom who is interested in backend develop from South Korea.
 
-📰 Resume: https://www.notion.so/SooBeom-Java-Spring-eba89902dc1544f48e5271290f85963f
+📰 Resume: [이력서 바로가기](https://www.notion.so/SooBeom-Java-Spring-eba89902dc1544f48e5271290f85963f)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsim6342&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
