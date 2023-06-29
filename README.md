@@ -2,7 +2,7 @@
 
 Hi, I'm Soobeom who is interested in backend develop from South Korea.
 
-📰 Resume: [이력서 바로가기](https://www.notion.so/SooBeom-54aadea69ff149d2b37a85021c25ae4e)
+📰 Resume: [이력서 바로가기](https://www.notion.so/SooBeom-237eb00549e941f38c0824e6294557f4)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsim6342&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
